@@ -1,0 +1,8 @@
+main: me.imthelion.craftabletrolls.Main
+author: ImTheLion
+version: 1.0
+description: Add's Craftable trolls to minecraft.
+api-version: 1.17
+name: CraftableTrolls
+
+commands:
